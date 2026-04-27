@@ -1,0 +1,5 @@
+*.lck
+*cache*
+*backup*
+gerber.zip
+docs/*.blend1
