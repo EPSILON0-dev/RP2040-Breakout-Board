@@ -7600,23 +7600,25 @@
 		(fields_autoplaced yes)
 		(uuid "4c1cd466-6f5c-4e41-abbb-c49e014bf970")
 		(property "Reference" "Y1"
-			(at 143.51 85.2168 90)
+			(at 136.2711 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "12MHz"
-			(at 143.51 87.7568 90)
+			(at 136.2711 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
