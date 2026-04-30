@@ -2,13 +2,13 @@
 
 Minimal RP2040 breakout with USB Micro-B, 16 MB QSPI flash, and full GPIO headers in a breadboard-friendly form factor.
 
-![Board Render](docs/render.png)
+![Board Render](docs/render.jpg)
 
 ---
 
 ## Pin Reference
 
-![Board Pinout](docs/pinout.png)
+![Board Pinout](docs/pinout.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ Minimal RP2040 breakout with USB Micro-B, 16 MB QSPI flash, and full GPIO header
 
 | Schematic                        | Board                    |
 |:--------------------------------:|:------------------------:|
-| ![Schematic](docs/schematic.png) | ![Board](docs/board.png) |
+| ![Schematic](docs/schematic.jpg) | ![Board](docs/board.jpg) |
 
 ---
 
